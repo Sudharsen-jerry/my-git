@@ -1,1 +1,2 @@
 "This is my second file with some content." 
+"Adding a second line for testing." 
